@@ -2017,3 +2017,4 @@ HTML Themes and UI Kits to create your applications faster!
 Изменение 1 в branch_2
 Изменение 2 в branch_2
 Изменение 3 в branch_2
+Доп изменения 1 в branch_1
